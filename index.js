@@ -89,7 +89,7 @@ inquirer
     {
         type: 'list',
         message: 'Choose a license for your application/project.',
-        choice: ['GPL','LGPL','ISC','MIT','POSTGRESQL','NCSA','UNLICENSE','ZLIB'],
+        choices: ['GPL','LGPL','ISC','MIT','POSTGRESQL','NCSA','UNLICENSE','ZLIB'],
         name: 'license'
     },
 ])
