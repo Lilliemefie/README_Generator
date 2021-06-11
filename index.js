@@ -19,7 +19,7 @@ const generateReadme = (answers) =>
 - [Questions](#questions)
 
 ## Installation 🖥️
-*Steps required to install project and get the development environment established:*
+*Steps required to install project/application:*
 ${answers.installation}
 
 ## Usage
