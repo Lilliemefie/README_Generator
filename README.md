@@ -25,8 +25,7 @@ Moreover, this application contains essential questions that will help to genera
 
 ## Usage
 *Instructions and examples for use:* 
-[Click Here](https://drive.google.com/file/d/1nvIvZXNfeWdUp1s_CiQ-6PiQkMAKVuDN/view?usp=sharing), for the instruction's video on how to use this application.
-
+[Click Here](https://drive.google.com/file/d/1eBrC2QiBfn7CudCdlJKWX6eCksZb_XOq/view), for the instruction's video on how to use this application.
 
 ## License
 Built under the MIT licence. 
