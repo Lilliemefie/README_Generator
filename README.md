@@ -40,5 +40,5 @@ This app was testing on Visual Studio Code.
 ## Questions
 If you have any questions or want to make a contribution please reach out to me here: 
 
-* [GitHub:](https://github.com/https://github.com/lilliemefie/).  
-* Email: lilliejira@gmail.com.
+* [GitHub](https://github.com/https://github.com/lilliemefie/)  
+* Email: lilliejira@gmail.com
