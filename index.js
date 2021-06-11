@@ -39,8 +39,8 @@ ${answers.test}
 ## Questions
 If you have any questions or want to make a contribution please reach out to me here: 
 
-* [GitHub:](https://github.com/${answers.github}/).  
-* Email: ${answers.email}.`
+* [GitHub](https://github.com/${answers.github}/) 
+* Email: ${answers.email}`
 ;
 
 // Create an array of questions for user input
