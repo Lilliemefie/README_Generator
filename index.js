@@ -5,7 +5,7 @@ const fs = require('fs');
 // Readme contect that will display on README.md 
 const generateReadme = (answers) =>
 
-`# ${answers.title}
+`# ${answers.title}💎
 ![GitHub license](https://img.shields.io/badge/license-${answers.license}-yellow.svg) 
 
 ## Description${answers.description}
@@ -18,7 +18,7 @@ const generateReadme = (answers) =>
 - [Tests](#tests)
 - [Questions](#questions)
 
-## Installation
+## Installation 🖥️
 *Steps required to install project and get the development environment established:*
 ${answers.installation}
 
@@ -91,7 +91,7 @@ inquirer
         message: 'Choose a license for your application/project.',
         choice: ['GPL','LGPL','ISC','MIT','POSTGRESQL','NCSA','UNLICENSE','ZLIB'],
         name: 'license'
-    }
+    },
 ])
 
 
