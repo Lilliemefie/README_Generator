@@ -19,7 +19,7 @@ Moreover, this application contains essential questions that will help to genera
 *Steps required to install project/application:*
 1.	Make a clone of this repository
 2.	Open the folder in your code text editor of choice
-3.	Once you have done that, you will need to install NPM Inquirer package by entering `npm I inquirer` on Terminal (command-line system)
+3.	Once you have done that, you will need to install NPM Inquirer package by entering `npm i inquirer` on Terminal (command-line system)
 4.	Then run `node index.js` on Terminal
 
 
